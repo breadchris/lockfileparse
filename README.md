@@ -1,2 +1,2 @@
-# parselock
-Parse various package manager lock file formats.
+# pacmanparse
+Parse various package manager file formats.
